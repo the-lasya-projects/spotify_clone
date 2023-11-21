@@ -6,7 +6,7 @@ body{
     padding-bottom: 2%;
 }
 .banner{
-    /* background-image: url(images/banner1.svg); */
+    /* background-image: url(.images/banner1.svg); */
     background-size: cover;
     background-position: center;
     height: 18em;
