@@ -3,6 +3,8 @@
 ## Overview
 This project is a clone of the popular music streaming service, Spotify. It aims to replicate key features of Spotify, providing users with a familiar interface for discovering, playing, and managing their favorite music.
 
+![12505004-d908-4c3f-83fa-eac7bdebcdc4-cover](https://github.com/the-lasya-projects/spotify_clone/assets/142709321/60dc82cf-5b81-4ebe-a0e5-5ec0d6fc687a)
+
 ## Features
 - *User Authentication*: Secure user accounts with authentication to ensure a personalized experience.
 - *Browse and Search*: Explore a vast library of music, search for specific tracks, artists, or albums.
